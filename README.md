@@ -1,5 +1,7 @@
 # ShellHacks StarterPacks
 
+![Shell Logo](https://shellhacks.net/assets/imgs/shellhacks-opengraph.png)
+
 Greetings dear Hacker!!
 
 From the Organizing team of Shellhacks and everyone at Florida International University, we would like to welcome you to ShellHacks 2017 cohosted by Spotify!! Shellhacks will be filled with a big list of rich lectures, fun activities, dizzying amount of food, passionate individuals, companies and lots and lots of Hacking. Because of this, we thought that giving you a personal guide (A starter pack if you will) to the hackathon based on your interestest (Hardware, AI, Web, ect) will allow you to take full advantage of the Shell Experience!! We want to empower everyone attending our event to build and share their ideas.
