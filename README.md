@@ -6,7 +6,7 @@ Greetings dear Hacker!!
 
 From the Organizing team of Shellhacks and everyone at Florida International University, we would like to welcome you to ShellHacks 2017 cohosted by Spotify!! Shellhacks will be filled with a big list of rich lectures, fun activities, dizzying amount of food, passionate individuals, companies and lots and lots of Hacking. Because of this, we thought that giving you a personal guide (A starter pack if you will) to the hackathon based on your interestest (Hardware, AI, Web, ect) will allow you to take full advantage of the Shell Experience!! We want to empower everyone attending our event to build and share their ideas.
 
-![Meme 1](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjNt-nplL3WAhVH7SYKHWEQBYIQjRwIBw&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Freaction-a5viI92PAF89q&psig=AFQjCNGTdGxkh4qnagMlHmxa26OvJLI5fQ&ust=1506319829300984)
+![Meme 1](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif)
 Did we mention plenty of memes too?
 
 **The ShellHacks Starter Packs will contain:**
