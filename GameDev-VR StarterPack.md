@@ -20,10 +20,10 @@ Just like someone about to start on their Pokemon Journey, you will have to choo
 - [Amazon Lumberyard](https://aws.amazon.com/lumberyard/): Amazon Lumberyard is a moded version of the CryEngine Game Engine. The cool thing about this game engine is it's direct support to Amazon Web services such as AWS (Which if you did not know, Amazon is giving away AWS credits for free at ShellHacks). Because the engine is in Beta and lack of online resources, expect a hightened dificulty. You will be using C++ to write you code, more resources on that on Online Resources. 
 
 **Companies of Interest**
-These are some companies that have involvement in Game Development (Or are directly affected by it, such as Microsoft with their upcoming Mixed Reality Headsets and Hololens)
-- Amazon
-- Microsoft 
-- Facebook 
+The following companies are present at ShellHacks and have involvement in Game Development.
+- Amazon = creators of Lumberyard Game Engine. AWS is also heavily used in Game Development, even in Unity!! 
+- Microsoft = upcoming Mixed Reality Headsets, Windows 10 Gaming, Xbox, VR,  and Hololens
+- Facebook = They own Oculus as well as Facebook Game Platform. 
 
 **Related Activities**
 
