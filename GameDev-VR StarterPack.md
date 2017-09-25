@@ -37,5 +37,10 @@ Please do remember that while we want to help everyone have great hacks, we migh
 
 - Jose Maldonado - Organizer
 
-### Online Resources**
+### Online Resources
+**Unity** 
+- [C# For Beginers](https://www.tutorialspoint.com/csharp/csharp_basic_syntax.htm): If you have experience with Java then this will be a breeze. You can translate the majority of Java syntax with a few notable expceptions into C#.
+- [C++ For Beginers](https://www.tutorialspoint.com/cplusplus/cpp_overview.htm): C++ is a bit more complicated and unforgiving. While you can move in a few concepts from Java, it will not suffice. While it is a bit more tedious, those up for the challenge will be rewarded with C++ practice and knowledge which can be transfered to other hot topics like Artificial Inteligence and Machine Learning (OpenCV for C++)
+- [Unity Roll a Ball](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial): This Unity tutorial will take you through the basics of using the Unity Editor and how to make simple games in minutes!! I highly recomend using this tutorial as a starting point to new peeps, and build on what you learn in the tutorial. 
+- 
 
