@@ -44,5 +44,7 @@ Please do remember that while we want to help everyone have great hacks, we migh
 - [Unity Roll a Ball](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial): This Unity tutorial will take you through the basics of using the Unity Editor and how to make simple games in minutes!! I highly recomend using this tutorial as a starting point to new peeps, and build on what you learn in the tutorial. 
 - [Unreal Tutorial Videos](https://docs.unrealengine.com/latest/INT/Videos/Basics/)
 - [Amazon Lumberjack Tutorials](https://gamedev.amazon.com/forums/tutorials)
+- [[VR]Oculus SDK (Unity and Unreal)](https://developer.oculus.com/downloads/)
+- [[AR]ARCore by Google (Unity and Unreal)](https://developers.google.com/ar/)
 - [Oculus SDK for Unity and Unreal](https://developer.oculus.com/downloads/)
 
