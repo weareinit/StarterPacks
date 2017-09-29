@@ -5,7 +5,7 @@ Friday
 11:00PM - 12:00AM
 PG6 105 - Brickell Room
 WHAT TO DOWNLOAD:
-GitBash and GitHub: for windows users: here 
+GitBash and GitHub: for windows users: [Here](https://www.google.com/url?q=https%3A%2F%2Fgit-scm.com%2Fdownloads)
 GitHub: for all: here
 Create a GitHub account: here
 Create a GitLab account: here
